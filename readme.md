@@ -1,7 +1,7 @@
 
 # curlgm
 curlgm 命令是将 gearman client 包装起来,不再需要自己为每一个服务写一个client  
-你只需要使用一个 url 仅此而已  
+你只需要使用一个 url 仅此而已!  
 
 curlgm 命令
 支持直接json字串  
