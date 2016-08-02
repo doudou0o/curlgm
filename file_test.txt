@@ -1,0 +1,2 @@
+http://192.168.1.201:4730/ecv_parser_new;para=p,m,c?"groupname"="local"&filename=/data/chenchen/Alldoc/Alldoc/1.doc&rettype=json&&""&&{"csample":12}
+http://192.168.1.201:4730/ecv_parser_new;para=p,m,c?"groupname"="local"&filename=/data/chenchen/Alldoc/Alldoc/1.doc&rettype=json&&""&&{"csample":12}
