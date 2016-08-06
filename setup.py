@@ -2,8 +2,9 @@
 # -*- coding: utf-8 -*-
 
 from setuptools import setup, find_packages
+
 setup(
-        name = 'curlgmOo',
+        name = 'curlgm',
         version = '0.0.8',
         package = find_packages('src'),
         package_dir = {'':'src'},
